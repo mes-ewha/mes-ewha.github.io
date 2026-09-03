@@ -26,6 +26,12 @@ selected:
 full:
   - year: 2026
     papers:
+      - title: "DynaStitch: Dynamic ViT Inference via Neural Stitching for Resource-Constrained Edge Devices"
+        authors: "Jiwon Kim, Luca Mottola, Jeho Lee, Seonghoon Park, Hojung Cha, and Thiemo Voigt"
+        venue: "IEEE/ACM EMSOFT 2026, To Appear"
+        abbr: "EMSOFT"
+        pdf: ""
+
       - title: "Phoenix: Thermal-Aware On-Device Inference of Multi-Instance DNNs for Mobile Video Applications"
         authors: "Seunghyeok Jeon, Jiwon Kim, Jeho Lee, and Hojung Cha"
         venue: "ACM Transactions on Embedded Computing Systems (TECS)"
