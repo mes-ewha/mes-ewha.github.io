@@ -28,7 +28,7 @@ full:
     papers:
       - title: "DynaStitch: Dynamic ViT Inference via Neural Stitching for Resource-Constrained Edge Devices"
         authors: "Jiwon Kim, Luca Mottola, Jeho Lee, Seonghoon Park, Hojung Cha, and Thiemo Voigt"
-        venue: "IEEE/ACM EMSOFT 2026, To Appear"
+        venue: "IEEE/ACM International Conference on Embedded Software (EMSOFT 2026), To Appear"
         abbr: "EMSOFT"
         pdf: ""
 
