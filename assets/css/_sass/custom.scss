@@ -127,6 +127,42 @@ h1, h2, h3, h4, h5, h6 {
     text-align: left;
   }
 }
+
+/* Research page */
+.research-overview .lead {
+  color: #2f3f35;
+  font-weight: 400;
+}
+
+.research-area .card {
+  border-left: 4px solid #1B3022 !important;
+}
+
+.research-area h5 {
+  color: #1B3022;
+}
+
+.research-papers li {
+  margin-bottom: 0.65rem;
+  padding-left: 0.15rem;
+}
+
+.research-papers .badge {
+  min-width: 105px;
+  text-align: center;
+  vertical-align: middle;
+}
+
+@media (max-width: 575.98px) {
+  .research-area .card-body {
+    padding: 1.25rem !important;
+  }
+
+  .research-papers .badge {
+    display: inline-block;
+    margin-bottom: 0.25rem;
+  }
+}
 // .btn-primary{
 //     background-color: #1d4367;
 //     border-color: #1d4367;
